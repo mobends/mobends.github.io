@@ -15,7 +15,7 @@
    version="1.1"
    id="svg1264"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
-   sodipodi:docname="PatreonBanner2.svg"
+   sodipodi:docname="banner.svg"
    inkscape:export-filename="D:\Artwork\PatreonBanner3.png"
    inkscape:export-xdpi="150"
    inkscape:export-ydpi="150">
@@ -28,18 +28,18 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.7"
-     inkscape:cx="786.54756"
-     inkscape:cy="209.57526"
+     inkscape:zoom="0.35"
+     inkscape:cx="581.78717"
+     inkscape:cy="135.53062"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer5"
+     inkscape:current-layer="layer3"
      showgrid="false"
      units="px"
-     inkscape:window-width="1920"
-     inkscape:window-height="1017"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
-     inkscape:window-maximized="1"
+     inkscape:window-width="1137"
+     inkscape:window-height="623"
+     inkscape:window-x="725"
+     inkscape:window-y="292"
+     inkscape:window-maximized="0"
      inkscape:snap-bbox="false"
      inkscape:bbox-paths="true"
      inkscape:snap-global="true"
@@ -59,7 +59,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -67,10 +67,9 @@
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="Background"
-     style="display:inline"
-     sodipodi:insensitive="true">
+     style="display:none">
     <rect
-       style="fill:#ff773b;fill-opacity:1;stroke:none;stroke-width:0.91935039"
+       style="fill:#484848;fill-opacity:1;stroke:none;stroke-width:0.91935039"
        id="rect5610"
        width="423.33334"
        height="105.83333"
@@ -82,12 +81,12 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-191.16668)"
-     style="display:inline">
+     style="display:none">
     <g
        inkscape:groupmode="layer"
        id="layer2"
        inkscape:label="Shadow"
-       style="display:inline"
+       style="display:none"
        transform="translate(0,191.16668)">
       <path
          inkscape:connector-curvature="0"
@@ -106,6 +105,23 @@
        d="m 118.93758,253.00923 h -3.01068 v -12.64487 -12.64487 h 2.65228 2.65229 l 3.73704,3.62208 3.73704,3.62208 3.47017,-3.62208 3.47018,-3.62208 h 2.78537 2.78538 v 12.64487 12.64487 h -3.01069 -3.01068 v -8.05308 -8.05309 l -3.35797,3.21714 -3.35798,3.21714 -3.26553,-3.26553 -3.26553,-3.26553 v 8.10148 8.10147 z m 37.33249,0 h -7.65574 l -1.89243,-1.89243 -1.89243,-1.89243 v -8.86001 -8.86001 l 1.89243,-1.89243 1.89243,-1.89243 h 7.65574 7.65574 l 1.89243,1.89243 1.89243,1.89243 v 8.86001 8.86001 l -1.89243,1.89243 -1.89243,1.89243 z m 0.29139,-6.24916 4.52571,-0.37434 v -6.02137 -6.02137 h -4.8171 -4.81709 l -0.38132,4.64267 -0.38131,4.64267 0.6727,1.75304 0.67271,1.75304 z m 38.78035,6.24916 h -8.36276 v -12.64487 -12.64487 h 8.36276 8.36277 l 3.3789,2.94036 3.37891,2.94037 -1.86556,3.38207 -1.86557,3.38207 1.86557,3.37306 1.86556,3.37306 -3.37891,2.94938 -3.3789,2.94937 z m 2.17464,-5.04546 4.51602,-0.37377 v -1.80641 -1.80641 l -4.51602,-0.37376 -4.51603,-0.37377 v 2.55394 2.55394 z m 0,-10.83847 4.51602,-0.37376 v -1.80641 -1.80641 l -4.51602,-0.37377 -4.51603,-0.37376 v 2.55394 2.55394 z m 26.79509,15.88393 h -9.63419 v -12.64487 -12.64487 h 9.63419 9.63419 v 3.01068 3.01068 h -6.62351 -6.6235 v 1.80642 1.80641 h 6.6235 6.62351 v 3.01068 3.01068 h -6.62351 -6.6235 v 1.80642 1.80641 h 6.6235 6.62351 v 3.01068 3.01068 z m 17.46197,0 h -3.01069 v -12.64487 -12.64487 h 4.5599 4.55991 l 3.79772,7.52671 3.79772,7.52671 0.0723,-7.52671 0.0723,-7.52671 h 3.01068 3.01069 v 12.64487 12.64487 h -4.5599 -4.55991 l -3.79772,-7.52671 -3.79772,-7.52671 -0.0723,7.52671 -0.0723,7.52671 z m 31.82723,0 h -8.34389 v -12.64487 -12.64487 h 8.34389 8.3439 l 1.89243,1.89243 1.89243,1.89243 v 8.86001 8.86001 l -1.89243,1.89243 -1.89243,1.89243 z m 1.59137,-6.24613 3.91389,-0.37737 v -6.02137 -6.02137 l -3.91389,-0.37737 -3.91389,-0.37737 v 6.77611 6.77611 z m 22.8812,5.99783 -8.73099,0.35382 v -3.06344 -3.06344 h 6.02137 6.02137 v -1.74043 -1.74043 l -5.7203,-0.36705 -5.7203,-0.36705 v -7.22564 -7.22565 l 8.73098,-0.35382 8.73099,-0.35383 v 3.06344 3.06344 h -6.02137 -6.02137 v 1.74043 1.74043 l 5.7203,0.36705 5.7203,0.36705 v 7.22565 7.22564 z M 177.97476,232.53658 h -1.77865 l -1.75261,-2.70961 -1.75262,-2.70962 -0.86567,-3.51665 -0.86568,-3.51665 4.39694,4.86688 4.39694,4.86688 v 1.35939 1.35938 z"
        id="path5036"
        inkscape:connector-curvature="0" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer5"
+     inkscape:label="SubTitle"
+     style="display:none;opacity:0.79100001">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.69999981px;line-height:1.25;font-family:'Berlin Sans FB';-inkscape-font-specification:'Berlin Sans FB, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#fff0ac;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="211.86046"
+       y="78.01429"
+       id="text5940"><tspan
+         sodipodi:role="line"
+         id="tspan5938"
+         x="211.86046"
+         y="78.01429"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.69999981px;font-family:'Berlin Sans FB';-inkscape-font-specification:'Berlin Sans FB, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#fff0ac;fill-opacity:1;stroke-width:0.26458332">THE WORLD REANIMATED</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -308,22 +324,5 @@
        id="path5624-7-5-7-9"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccc" />
-  </g>
-  <g
-     inkscape:groupmode="layer"
-     id="layer5"
-     inkscape:label="SubTitle"
-     style="opacity:0.791">
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.69999981px;line-height:1.25;font-family:'Berlin Sans FB';-inkscape-font-specification:'Berlin Sans FB, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#fff0ac;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="211.86046"
-       y="78.01429"
-       id="text5940"><tspan
-         sodipodi:role="line"
-         id="tspan5938"
-         x="211.86046"
-         y="78.01429"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.69999981px;font-family:'Berlin Sans FB';-inkscape-font-specification:'Berlin Sans FB, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#fff0ac;stroke-width:0.26458332;fill-opacity:1">THE WORLD REANIMATED</tspan></text>
   </g>
 </svg>
